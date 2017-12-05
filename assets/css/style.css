@@ -1,0 +1,255 @@
+/*
+Estilos de la seccion 1
+*/
+
+.sectionOne{
+  background-image: url(../images/taxi.jpg);
+  background-size: cover;
+  background-position: center 90%;
+  background-repeat: no-repeat;
+  min-height: 640px;
+  margin-top: -1.5em;
+  color: #fff;
+}
+
+.box{
+  background-color: #F7B617;
+  border-color: #F7B617;
+  margin-top: 7em;
+}
+
+.line {
+  border-top: 1px solid #FFF;
+  width: 30%;
+  display: inline-block;
+}
+
+h3{
+  padding-left: 2em;
+  font-weight: bold;
+}
+
+h3.title1{
+  padding-top:3em;
+}
+
+h3.title2{
+  margin-top: 0;
+}
+
+p.text{
+  font-size: 1.3em;
+  margin-left: 2.5em;
+  margin-top: 2em;
+}
+
+.btn{
+  margin-left: 3.2em;
+}
+
+div.lineBox{
+  margin: 2em 5em;
+}
+
+.text1{
+  font-weight: bold;
+}
+
+#btnMargin{
+  margin-bottom: 4em;
+}
+
+/*
+Estilos del box version movil
+*/
+
+.boxMovil{
+  background-color: #F7B617;
+  border-color: #F7B617;
+  margin-top: 15em;
+}
+
+h3.textMovil{
+  padding-top: 2em;
+}
+
+#btnMovil{
+  margin-left: 3em;
+  margin-bottom: 4em
+}
+
+/*
+Estilos de la seccion 2
+*/
+
+.sectionTwo{
+  background-color: #F7B617;
+  color: #fff;
+}
+
+#boxWhite{
+  outline: 1px solid white;
+  margin-top: 3em;
+  margin-bottom: 3em
+}
+
+.iPhone{
+  padding: 2em;
+  width: 100%;
+}
+
+.titlePhone{
+  margin-top: 4em;
+}
+
+.txtPhone{
+  padding-left: 2.5em;
+  font-size: 18px;
+}
+
+.txtHidden{
+  padding-left: 4em;
+  font-weight: bold;
+}
+
+/*
+Estilos de la seccion 3
+*/
+
+.sectionThree{
+  background-image: url(../images/conduce.jpg);
+  background-size: cover;
+  background-position: center 50%;
+  background-repeat: no-repeat;
+  min-height: 460px;
+  color: #fff;
+}
+
+.boxConduce{
+  width: 100%;
+  min-height: 460px;
+  margin-top: -1.4em;
+  background: rgba(0, 0, 0, 0.3)
+}
+
+.titleConduce{
+  padding-top: 6em;
+}
+
+.txtConduce{
+  padding-left: 2.5em;
+  padding-right: 1.5em;
+  font-size: 18px;
+}
+
+/*
+Estilos de la seccion 4
+*/
+
+.sectionFour{
+  background-color: #F7B617;
+  color: #fff;
+}
+
+.titleInput{
+  padding-top: 3em;
+}
+
+.txtInput{
+  padding-left: 2.5em;
+  padding-right: 1.5em;
+  padding-bottom: 1em;
+  font-size: 18px;
+}
+
+.form{
+  margin-left: 2em;
+}
+
+input{
+  background-color: #F7B617;
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 5px;
+  width: 60%;
+  height: 3em;
+  padding: 0.5em;
+  margin-left: 0.5em;
+  margin-bottom: 1em;
+}
+
+#btnInput{
+  margin-bottom: 3em;
+  margin-left: 4.5em;
+}
+
+/*
+Cambiando color de placeholder
+*/
+input::-webkit-input-placeholder {
+	color: white;
+}
+
+input::-moz-placeholder {
+	color: white;
+}
+
+input:-ms-input-placeholder {
+	color: white;
+}
+
+input:-moz-placeholder {
+	color: white;
+}
+
+.mapa{
+  width: fit-content;
+  outline: 1px solid #fff;
+  padding: 0.5em;
+  margin: 3em auto;
+}
+
+iframe{
+  width: 100%;
+}
+
+/*
+Estilos del footer
+*/
+
+footer{
+  background-color: #2B2B2B;
+  color: #fff;
+}
+
+ul li{
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.iconsFoo{
+  width: fit-content;
+  margin-top: 16em;
+}
+
+.imgFoo{
+  width: 70%;
+}
+
+i{
+  padding: 5px;
+}
+
+#imgF{
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.txtFoo{
+  margin-bottom: 2em;
+}
